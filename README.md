@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**badrujamarain/badrujamarain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Badrujama 👋
 
-Here are some ideas to get you started:
+## Computer Science Student | Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student based in London,
+learning software development and building projects.
+
+### 💻 Technical Skills
+- JavaScript and React
+- Java and Python
+- HTML and CSS
+- Git and GitHub
+- Database Management
+
+### 🚀 Projects
+Explore my repositories to see my coursework,
+web applications, and programming projects.
+
+### 📍 Location
+London, United Kingdom
+
+### 🔗 GitHub
+https://github.com/badrujamarain
+
+
